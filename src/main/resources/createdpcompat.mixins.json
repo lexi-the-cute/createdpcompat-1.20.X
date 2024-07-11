@@ -4,7 +4,8 @@
   "package": "net.misigno.createdpcompat.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "CreateDPCompatMixin"
+    "CreateDPTrackBlockMixin",
+    "CreateDPAllPortalTracksMixin"
   ],
   "client": [
 

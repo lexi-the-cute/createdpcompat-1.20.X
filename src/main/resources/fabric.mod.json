@@ -5,7 +5,8 @@
   "name": "Create compat for datapack portals",
   "description": "This mod ensures that create trains can pass through portals from the datapack portals mod",
   "authors": [
-    "Misigno"
+    "Misigno",
+    "lexi-the-cute"
   ],
   "license": "MIT",
   "icon": "assets/createdpcompat/icon.png",
